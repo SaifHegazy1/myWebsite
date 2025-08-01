@@ -1,4 +1,4 @@
-# Spacy website
+# Spacey website
 
 this is an example of using react and vite for iti
 
