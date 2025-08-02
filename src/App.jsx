@@ -24,22 +24,22 @@ function App() {
         <p>ipsum dolor sit amet.</p>
         <button >Get Started</button>
       </div>
-      <div class="stats-section">
-        <div class="stat">
-          <p class="label">Clients</p>
-          <p class="value">3K+</p>
+      <div className="stats-section">
+        <div className="stat">
+          <p className="label">Clients</p>
+          <p className="value">3K+</p>
         </div>
-        <div class="stat">
-          <p class="label">Projects</p>
-          <p class="value">10K+</p>
+        <div className="stat">
+          <p className="label">Projects</p>
+          <p className="value">10K+ </p>
         </div>
-        <div class="stat">
-          <p class="label">Employee</p>
-          <p class="value">500+</p>
+        <div className="stat">
+          <p className="label">Employee</p>
+          <p className="value">500+</p>
         </div>
-        <div class="stat">
-          <p class="label">Years</p>
-          <p class="value">10+</p>
+        <div className="stat">
+          <p className="label">Years</p>
+          <p className="value">10+</p>
         </div>
       </div>
     </>
