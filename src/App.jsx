@@ -19,9 +19,9 @@ function App() {
       <div className='Content'>
         <h1>Creativity is a Most</h1>
         <h1> Valuable Asset</h1>
-        <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor </p>
-        <p>sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem  </p>
-        <p>ipsum dolor sit amet.</p>
+        <p>At Spacey, we believe that imagination drives innovation.</p>
+        <p>Whether you're launching a new idea or refining an existing one, our creative solutions help you stand out.   </p>
+        <p>Discover how we turn bold visions into reality.</p>
         <button >Get Started</button>
       </div>
       <div className="stats-section">
